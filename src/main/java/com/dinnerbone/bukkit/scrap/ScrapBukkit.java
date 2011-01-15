@@ -3,7 +3,7 @@ package com.dinnerbone.bukkit.scrap;
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.Scanner;
-import org.bukkit.Player;
+import org.bukkit.entity.Player;
 import org.bukkit.Server;
 import org.bukkit.Location;
 import org.bukkit.event.Event.Priority;
